@@ -7,7 +7,7 @@
 실습한 코드는 [Github](https://github.com/Jinwon-Dev/design-pattern)에 저장하며, 정리한 내용은 [Notion](https://jinwonyoon.notion.site/Design-Pattern-bd469dbcc185447f9db33fd509b7905b)에 기록합니다.
 
 - Chapter 1 : [디자인 패턴 소개와 전략 패턴](https://jinwonyoon.notion.site/Chapter-1-765813a4faf4405c9c1263a28719b3d3)
-- Chapter 2 : [옵저버 패턴]
+- Chapter 2 : [옵저버 패턴](https://jinwonyoon.notion.site/Chapter-2-0971fe7b16064c04bdc5f0aae5560ff5)
 - Chapter 3 : [데코레이터 패턴]
 - Chapter 4 : [팩토리 패턴]
 - Chapter 5 : [싱글턴 패턴]
