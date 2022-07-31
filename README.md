@@ -10,7 +10,7 @@
 - Chapter 2 : [옵저버 패턴](https://jinwonyoon.notion.site/Chapter-2-0971fe7b16064c04bdc5f0aae5560ff5)
 - Chapter 3 : [데코레이터 패턴](https://jinwonyoon.notion.site/Chapter-3-c6356aabcaf647d1a24d96af5b3e86e8)
 - Chapter 4 : [팩토리 패턴](https://jinwonyoon.notion.site/Chapter-4-027ec98d03c74008af514e64bd1607f1)
-- Chapter 5 : [싱글턴 패턴]
+- Chapter 5 : [싱글턴 패턴](https://jinwonyoon.notion.site/Chapter-5-c14510f628e94855a46bc30e0d521bb6)
 - Chapter 6 : [커맨드 패턴]
 - Chapter 7 : [어댑터 패턴과 퍼사드 패턴]
 - Chapter 8 : [템플릿 메소드 패턴]
