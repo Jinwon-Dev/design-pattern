@@ -18,7 +18,7 @@
 
 - Chapter 6 : [커맨드 패턴](https://jinwonyoon.notion.site/Chapter-6-a410c357322546ed944d87849f7eefe3)
 
-- Chapter 7 : [어댑터 패턴과 퍼사드 패턴]
+- Chapter 7 : [어댑터 패턴과 퍼사드 패턴](https://jinwonyoon.notion.site/Chapter-7-c7ee1d46e500495e9c945d405440cfd9)
 
 - Chapter 8 : [템플릿 메소드 패턴]
 
