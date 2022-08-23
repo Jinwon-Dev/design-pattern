@@ -24,7 +24,7 @@
 
 - Chapter 9 : [반복자 패턴과 컴포지트 패턴]
 
-- Chapter 10 : [상태 패턴]
+- Chapter 10 : [상태 패턴](https://jinwonyoon.notion.site/Chapter-10-8effd4007cd54d639db387e151287020)
 
 - Chapter 11 : [프록시 패턴]
 
