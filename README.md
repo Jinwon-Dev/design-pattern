@@ -20,7 +20,7 @@
 
 - Chapter 7 : [어댑터 패턴과 퍼사드 패턴](https://jinwonyoon.notion.site/Chapter-7-c7ee1d46e500495e9c945d405440cfd9)
 
-- Chapter 8 : [템플릿 메소드 패턴]
+- Chapter 8 : [템플릿 메소드 패턴](https://jinwonyoon.notion.site/Chapter-8-63c72e37c2294f14b572a671d2b1a45a)
 
 - Chapter 9 : [반복자 패턴과 컴포지트 패턴]
 
