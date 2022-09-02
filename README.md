@@ -22,7 +22,7 @@
 
 - Chapter 8 : [템플릿 메소드 패턴](https://jinwonyoon.notion.site/Chapter-8-63c72e37c2294f14b572a671d2b1a45a)
 
-- Chapter 9 : [반복자 패턴과 컴포지트 패턴]
+- Chapter 9 : [반복자 패턴과 컴포지트 패턴](https://jinwonyoon.notion.site/Chapter-9-e4b4f74c2658424780ed5f05413d7ab0)
 
 - Chapter 10 : [상태 패턴](https://jinwonyoon.notion.site/Chapter-10-8effd4007cd54d639db387e151287020)
 
