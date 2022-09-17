@@ -2,7 +2,7 @@ package Chapter11.proxy.gumball_monitor;
 
 public class WinnerState implements State {
     private static final long serialVersionUID = 2L;
-    GumballMachine gumballMachine;
+    transient GumballMachine gumballMachine;
 
     public WinnerState(GumballMachine gumballMachine) {
         this.gumballMachine = gumballMachine;

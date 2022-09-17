@@ -2,7 +2,7 @@ package Chapter11.proxy.gumball_monitor;
 
 public class NoQuarterState implements State {
     private static final long serialVersionUID = 2L;
-    GumballMachine gumballMachine;
+    transient GumballMachine gumballMachine;
 
     public NoQuarterState(GumballMachine gumballMachine) {
         this.gumballMachine = gumballMachine;
