@@ -26,7 +26,7 @@
 
 - Chapter 10 : [상태 패턴](https://jinwonyoon.notion.site/Chapter-10-8effd4007cd54d639db387e151287020)
 
-- Chapter 11 : [프록시 패턴]
+- Chapter 11 : [프록시 패턴](https://jinwonyoon.notion.site/Chapter-11-b9aa9be160894ec4aa5d6b66cfab8fe4)
 
 - Chapter 12 : [복합 패턴]
 
