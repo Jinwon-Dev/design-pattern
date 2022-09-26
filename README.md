@@ -28,8 +28,4 @@
 
 - Chapter 11 : [프록시 패턴](https://jinwonyoon.notion.site/Chapter-11-b9aa9be160894ec4aa5d6b66cfab8fe4)
 
-- Chapter 12 : [복합 패턴]
-
-- Chapter 13 : [실전 디자인 패턴]
-
-- Chapter 14 : [기타 패턴] 
+- Chapter 12 : [복합 패턴](https://jinwonyoon.notion.site/Chapter-12-d8deae50120a45bf91021bc9dbb07b6b)
