@@ -9,6 +9,7 @@ public class DuckSimulator {
     }
 
     void simulate(AbstractDuckFactory duckFactory) {
+        Quackable mallardDuck = duckFactory.createMallardDuck();
         Quackable redheadDuck = duckFactory.createRedheadDuck();
         Quackable duckCall = duckFactory.createDuckCall();
         Quackable rubberDuck = duckFactory.createRubberDuck();
@@ -36,6 +37,11 @@ public class DuckSimulator {
         flockOfMallards.add(mallardFour);
 
         flockOfDucks.add(flockOfMallards);
+
+        System.out.println("\n오리 시뮬레이션 게임 (+ 옵저버)");
+
+        Quackologist quackologist = new Quackologist();
+        flockOfDucks.registerObserver(quackologist);
 
         System.out.println("\nDuck Simulator: 전체 무리");
         simulate(flockOfDucks);
